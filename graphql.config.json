@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "lib": {
+      "extensions": {
+        "endpoints": {
+          "default": {
+            "url": "https://"
+          }
+        }
+      }
+    }
+  }
+}

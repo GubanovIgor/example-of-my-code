@@ -1,0 +1,13 @@
+export { BalanceScreen } from './Balance';
+export { BonusesScreen } from './Bonuses';
+export { ProfileScreen } from './Profile';
+export { TransactionHistoryScreen } from './TransactionHistory';
+export { WinningsScreen } from './Winnings';
+export { MyGamesScreen } from './MyGames';
+export { VerificationScreen } from './Verification';
+export { DocumentsScreen } from './Documents';
+export { ChangePasswordScreen } from './ChangePassword';
+export { MenuScreen } from './Menu';
+export { BetHistoryScreen } from './BetHistory';
+export { ResultsScreen } from './Results';
+export { ResponsibleGamingScreen } from './ResponsibleGaming';

@@ -1,0 +1,11 @@
+export { computeAge } from './computeAge';
+export { reverseString } from './reverseString';
+export { checkTokenExpiration } from './checkTokenExpiration';
+export { formatDate } from './formatDate';
+export { getSlicedArray } from './getSlicedArray';
+export { showToast } from './showToast';
+export { openLink } from './openLink';
+export { convertMsToMinutes } from './convertMsToMinutes';
+export { insertCharToStringAtIndex } from './insertCharToStringAtIndex';
+export { removeCharFromStringByIndex } from './removeCharFromStringByIndex';
+export * from './i18next';

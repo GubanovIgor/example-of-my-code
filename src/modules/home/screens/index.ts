@@ -1,0 +1,13 @@
+export { HomeScreen } from './Home';
+export { CategoryScreen } from './Category';
+export { SubCategoryScreen } from './SubCategory';
+export { JackpotScreen } from './Jackpot';
+export { PromotionsScreen } from './Promotions';
+export { TournamentScreen } from './Tournament';
+export { GamePreviewScreen } from './GamePreview';
+export { GameSessionScreen } from './GameSession';
+export { ProviderScreen } from './Provider';
+export { ProvidersScreen } from './Providers';
+export { SupportScreen } from './Support';
+export { FAQScreen } from './FAQ';
+export { AboutCompanyScreen } from './AboutCompany';

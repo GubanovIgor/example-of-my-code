@@ -1,0 +1,1 @@
+export { KYSService } from './KYCService';
